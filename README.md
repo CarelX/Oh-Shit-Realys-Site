@@ -1,4 +1,4 @@
 # Oh-Shit-Realys-Site
 
 
-[![Discord](https://cdn.discordapp.com/attachments/830950893435617341/833195841064796181/Leaked_Menus.png)]
+[![Discord](https://cdn.discordapp.com/attachments/820010732245483620/845623231205212190/ez.PNG)]
