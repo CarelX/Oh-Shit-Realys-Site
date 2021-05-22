@@ -3,7 +3,7 @@
 
 [![Discord](https://cdn.discordapp.com/attachments/820010732245483620/845623231205212190/ez.PNG)]
 
-!TR 
+! TR 
 
 Kayıt Teknik Kimliği:
 Tech Name: Dario Baumgartner
@@ -23,7 +23,7 @@ Ad Sunucusu: ns2.hostpoint.ch
 Ad Sunucusu: ns3.hostpoint.ch
 Ad Sunucusu: ns.hostpoint.ch
 
-!ENG
+! EN
 
 
 Registration Teknik Identity: Tech Name: Dario Baumgartner Tech Organization: Swiss Domain Trustee AG Tech Street: Neue Jonastrasse 60 Tech City: Rapperswil-Jona Tech State / City: SG Teknik Postal Code: 8640 Tech Country: CH Teknik Phone: +41.844040404 Teknik Telefon Extension: Technical Fax:
